@@ -18,3 +18,6 @@ This project is a CNN-based Rock Paper Scissors image classifier built using Ten
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+## Live Demo
+🔗 https://rock-paper-sciapprs-ml-hjfsh83cqcnsyxotksfthi.streamlit.app/
+
